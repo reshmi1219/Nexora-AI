@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "AutoFlow",
-    "slug": "autoflow",
+    "name": "Nexora AI",
+    "slug": "nexoraai",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "autoflow",
+    "scheme": "nexoraai",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
@@ -15,10 +15,10 @@
     },
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.autoflow"
+      "bundleIdentifier": "com.nexoraai.app"
     },
     "android": {
-      "package": "com.autoflow",
+      "package": "com.nexoraai.app",
       "adaptiveIcon": {
         "backgroundColor": "#04040A",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
