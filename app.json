@@ -42,6 +42,15 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": "https://replit.com/"
+      },
+      "eas": {
+        "projectId": "d1d7df3b-8a8a-49eb-a223-e414077f1659"
+      }
+    },
+    "owner": "lodereshmi"
   }
 }
